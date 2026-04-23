@@ -100,7 +100,7 @@ Router -> SOPCompiler -> ExecutionPlan -> Dispatcher
 ```bash
 pytest
 pytest -m property
-pytest tests/test_dispatcher.py
+pytest tests/test_dispatch.py
 ```
 
 ## 迁移注意
